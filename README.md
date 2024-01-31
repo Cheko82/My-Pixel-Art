@@ -1,7 +1,7 @@
 # My-Pixel-Art
 ### My pixel art, (some are from references) I'm just learning<br>
 
-#### Day 4 of pixelating! 🔥
+### Day 4 of pixelating! 🔥
 
 <div style="display: flex; align-items: center; flex-direction: row-reverse; justify-content: center">
   <img src="https://github.com/Cheko82/My-Pixel-Art/blob/main/pixelart/Bee.png?raw=true" alt="Bee" width="180">
