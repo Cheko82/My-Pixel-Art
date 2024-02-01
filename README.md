@@ -6,6 +6,7 @@
 <div style="display: flex; align-items: center; flex-direction: row-reverse; justify-content: center">
   <img src="https://github.com/Cheko82/My-Pixel-Art/blob/main/pixelart/Bee.png?raw=true" alt="Bee" width="180">
   <img src="https://github.com/Cheko82/My-Pixel-Art/blob/main/pixelart/Greg.png?raw=true" alt="Greg" width="180">
+  <img src="https://github.com/Cheko82/My-Pixel-Art/blob/main/pixelart/Jemma.png?raw=true" alt="Jemma" width="180">
   <img src="https://github.com/Cheko82/My-Pixel-Art/blob/main/pixelart/Grim.png?raw=true" alt="Grim" width="180">
   <img src="https://github.com/Cheko82/My-Pixel-Art/blob/main/pixelart/Lantern.png?raw=true" alt="Minecraft style lantern" width="180">
   <img src="https://github.com/Cheko82/My-Pixel-Art/blob/main/pixelart/Chest.png?raw=true" alt="A dumb chest" width="180">
