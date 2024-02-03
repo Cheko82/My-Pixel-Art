@@ -3,7 +3,7 @@
 
 ### Day 4 of pixelating! 🔥
 
-<div style="display: flex; align-items: center; flex-direction: row-reverse; justify-content: space-around">
+<div style="display: flex; align-items: center; flex-direction: row-reverse; justify-content: space-between">
   <img src="https://github.com/Cheko82/My-Pixel-Art/blob/main/pixelart/HotDogTruck.png?raw=true" alt="Hot dog truck" width="180">
   <img src="https://github.com/Cheko82/My-Pixel-Art/blob/main/pixelart/Tree.png?raw=true" alt="Tree" width="180">
   <img src="https://github.com/Cheko82/My-Pixel-Art/blob/main/pixelart/Bee.png?raw=true" alt="Bee" width="180">
