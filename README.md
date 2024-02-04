@@ -1,8 +1,6 @@
 # My-Pixel-Art
 ### My pixel art, (some are from references) I'm just learning<br>
 
-### Day 7 of pixelating! 🔥
-
 <div style="display: flex; align-items: center; flex-direction: row-reverse;">
   <img src="https://github.com/Cheko82/My-Pixel-Art/blob/main/pixelart/HotDogTruck.png?raw=true" alt="Hot dog truck" width="180">
   <img src="https://github.com/Cheko82/My-Pixel-Art/blob/main/pixelart/Tree.png?raw=true" alt="Tree" width="180">
